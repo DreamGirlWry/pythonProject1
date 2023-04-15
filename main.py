@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('Test Git3-hot-fix-master')
     print_hi('Test Git3-hot-fix2')
     print_hi('Test push')
+    print_hi('Test pull')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
